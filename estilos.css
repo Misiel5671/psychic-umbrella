@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(128, 162, 255);
+    font-family: 'Bitter', Cambria, Cochin, Georgia, Times, 'Times New Roman', serifS;
+}
+h1{
+    
+  font-family: 'Bitter', serif;
+  }
+  h2{
+   
+    font-family: 'Bitter', serif;
+  }
+  h3{
+   
+    font-family: 'Bitter', serif;
+  }
+
+header{
+  background-color: rgb(119, 163, 219);
+  width: 100%;
+
+  }
+
+  nav h2{
+    font-size: 20px;
+    color: #000000;
+    font-family: 'Bitter', serif;
+
+
+    }
+
+footer{
+  width: 100%;
+  height: 80%;
+ background-color: rgb(32, 94, 216);
+
+
+}
+
